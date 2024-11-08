@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.planet-item {
+  text-align: center;
+  padding: 20px;
+}
+
+.planet-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.planet-name {
+  font-size: 24px;
+  color: #05acff;
+}
+
+.planet-description {
+  font-size: 16px;
+  color: #f1f5f9;
+}

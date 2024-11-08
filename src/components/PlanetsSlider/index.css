@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.planets-slider {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  padding: 40px;
+}
+.planets-heading {
+  font-size: 32px;
+  color: #05acff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.slider-next,
+.slider-prev {
+  background-color: #05acff;
+  border: none;
+  color: #f8fafc;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.slider-next:hover,
+.slider-prev:hover {
+  background-color: #034f73;
+}
